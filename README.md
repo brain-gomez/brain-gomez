@@ -1,5 +1,8 @@
-### Hi there 👋
-
+  Hi there this is me Brain Gomez. 
+  🔭 I’m currently working on a designing project for upcomming NFT Games.
+- 🌱 I’m currently learning more and more about the games and ways to improve those games rapidly.
+- 👯 I’m looking to collaborate on other different Projects related to NFT games so that I can increase my knowlegede about the Crypto world !!
+- 📫 You can reach me directly on my LINKDIN as well you can mail me @brain.gomez@gmail.com
 <!--
 **brain-gomez/brain-gomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
